@@ -1,0 +1,14 @@
+link SQL serveur- SQL
+https://severalnines.com/database-blog/how-migrate-mssql-mysql
+
+cai dat SQL Workbench
+
+Xoa het thu muc nay neu tren may co
+After uninstallation process, please check following directories if it exists and remove:
+
+C:\Program Files\MySQL
+C:\Program Files (x86)\MySQL
+C:\ProgramData\MySQL
+C:\Users[User-Name]\AppData\Roaming\MySQL
+
+http://dbahire.com/mysql-workbench-la-gi-tai-sao-phai-cai-dat-mysql-workbench
